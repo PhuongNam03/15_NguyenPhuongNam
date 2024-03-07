@@ -1,3 +1,4 @@
 them nhanh test, s?a file và push lên nhánh test
 t?o conflict trên nhánh test
 >>>>>>> test
+tao conflict tren nhanh main
